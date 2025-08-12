@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+
+    background-color: rgb(56, 59, 224);
+    text-align: center;
+    color: aliceblue;
+ }
+ p{
+     color: rgb(0, 0, 0);
+ }
+ #mineirinho{
+     background-color: blue;
+ }
+ p{'Gill sans'}
+ 
+ .titulo{
+     font-size: 60px;
+     background-color: blueviolet;
+ }
+ section p{
+    color: rgb(0, 0, 0);
+ }
+
+ body{
+    background-image: url(IMAGE/light-gray-t26jjjdu44gvtjtv.jpg)
+ }
